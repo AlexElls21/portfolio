@@ -2599,7 +2599,7 @@
 
 /* One */
 
-	#one:before {
+	#About:before {
 		background-image: url("../../images/head1.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
